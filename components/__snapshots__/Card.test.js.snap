@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5"
+    >
+      <img
+        alt="robots"
+        height="268"
+        src="https://robohash.org/1?200x200"
+        style="object-fit: cover;"
+        width="268"
+      />
+      <div>
+        <h2>
+          John Snow
+        </h2>
+        <p>
+          john@gmail.com
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
